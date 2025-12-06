@@ -1,5 +1,5 @@
 # Red Wine Quality Predictor
-We use winequality-red.csv as our dataset to create a machine learning model to predict popularity of online news articles.
+We use winequality-red.csv as our dataset to create a machine learning model to predict quality of red wine.
 
 ## Goals
 The quality of red wine is of great interest to collectors and manufacturers alike since it serves as a good estimator of how much the wine is worth. Our data set includes various attributes that can potentially influence the quality of red wine, such as ... among many others. Applying the right machine learning model, we will be able to accurately predict what the quality of the red wine will be, allowing collectors, manufacturers (and even you!) to make relevant changes to increase quality of the product.
@@ -24,7 +24,7 @@ The quality of red wine is of great interest to collectors and manufacturers ali
 ### Data Encoding
 
 ## How to use this project
-1. __Clone the repo:__ `git clone https://github.com/szuma/ecs-170-ecs`
+1. __Clone the repo:__ `git clone https://github.com/tristan0huang/WineData`
 2. __Install libraries:__ `pip install pandas tensorflow matplotlib seaborn scikit-learn (on Terminal)`
 3. __Install libraries:__ `!pip install pandas tensorflow matplotlib seaborn scikit-learn (on colab)`
 4. __Run model:__ `python ML_model.ipynb`
