@@ -4,24 +4,11 @@ We use winequality-red.csv as our dataset to create a machine learning model to 
 ## Goals
 The quality of red wine is of great interest to collectors and manufacturers alike since it serves as a good estimator of how much the wine is worth. Our data set includes various attributes that can potentially influence the quality of red wine, such as ... among many others. Applying the right machine learning model, we will be able to accurately predict what the quality of the red wine will be, allowing collectors, manufacturers (and even you!) to make relevant changes to increase quality of the product.
 
-## Project Overview
-<!-- Things need to be added here -->
 
 ## Dataset
 * __Filename:__ [winequality-red.csv](winequality-red.csv)
 * __Source:__ [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
-
-## Data Preprocessing
-
-### Data Imputation
-
-### Dropping Columns
-
-
-### Data Normalization
-
-### Data Encoding
 
 ## How to use this project
 1. __Clone the repo:__ `git clone https://github.com/tristan0huang/WineData`
@@ -41,11 +28,6 @@ The quality of red wine is of great interest to collectors and manufacturers ali
 
    and thening edit "LongPathsEnabled" to a value of 1. Then it should be done.
 
-## Result
-<!-- Things need to be added here -->
-
-## Contributions
-<!-- Things need to be added here -->
 
 ## Link to Jupyter Notebook
 [Jupyter Notebook](ML_model.ipynb)
